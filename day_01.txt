@@ -1,1 +1,0 @@
-hello everyone this is the repo that i have created for learning the version control system of the git
