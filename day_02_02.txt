@@ -1,0 +1,4 @@
+here in day02 i learned about the 
+1. solving the merge conflict
+2. conflict markers 
+3. git stash->git stash list->git stash pop
